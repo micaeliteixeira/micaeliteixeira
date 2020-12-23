@@ -1,6 +1,6 @@
 <img src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/banner.png">
 
-# Hi, my name is Micaeli Teixeira 👋
+# Hi, my name's Micaeli Teixeira 👋
 
 ### Who I am?
 
@@ -25,11 +25,9 @@
 
 ### Contact
 
-[<img align="left" alt="Micaeli Teixeira | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/micaeli-teixeira/)
-[<img align="left" alt="Micaeli Teixeira | Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mikaellyk@yahoo.com)
+[<img align="left" alt="Micaeli Teixeira | LinkedIn" width="26px"  src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/linkedin.png" />](https://www.linkedin.com/in/micaeli-teixeira/)
+[<img align="left" alt="Micaeli Teixeira | Email"  width="26px" src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/email.png" />](mailto:mikaellyk@yahoo.com)
 
-<br />
-<br />
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=micaeliteixeira)
+
 
