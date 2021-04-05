@@ -27,3 +27,4 @@
 ### Alguns Projetos 📌
  - [Facebook Project](https://github.com/micaeliteixeira/Projetos/tree/master/Project%20Facebook%20Signup)
  - [Trivia App](https://github.com/micaeliteixeira/Projetos/tree/master/Project%20Trivia)
+ - [App de Receitas e Bebidas](https://github.com/micaeliteixeira/Projetos/tree/master/Project%20AppRecipes)
