@@ -28,3 +28,4 @@
  - [Facebook Project](https://github.com/micaeliteixeira/Projetos/tree/master/Project%20Facebook%20Signup)
  - [Trivia App](https://github.com/micaeliteixeira/Projetos/tree/master/Project%20Trivia)
  - [App de Receitas e Bebidas](https://github.com/micaeliteixeira/Projetos/tree/master/Project%20AppRecipes)
+ - [App de Compras de Bebidas](https://github.com/tryber/sd-06-trybeer/tree/main-group-19) -- (Branch com o projeto no repositório da Trybe)
