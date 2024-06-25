@@ -5,7 +5,7 @@
 ![banner](https://user-images.githubusercontent.com/67610045/180103893-be037387-1f76-4555-9078-03b5776662d6.jpg)
 
 
- - 🌱 Sou da cidade do mel mas moro na capital mineira
+ - 🌱 Sou da cidade do mel mas moro na praia.
  - 🎸 Cantora e guitarrista nas horas vagas
  - 📚 Estudante 
  - 🤝 Procuro colaborar em projetos e oportunidades de desenvolvedor
